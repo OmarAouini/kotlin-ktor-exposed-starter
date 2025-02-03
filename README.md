@@ -1,11 +1,11 @@
-[![Kotlin](https://img.shields.io/badge/kotlin-1.8.0-blue.svg?logo=kotlin)](http://kotlinlang.org)
-[![Ktor](https://img.shields.io/badge/ktor-2.2.2-blue.svg)](https://github.com/ktorio/ktor)
+[![Kotlin](https://img.shields.io/badge/kotlin-2.0.21-blue.svg?logo=kotlin)](http://kotlinlang.org)
+[![Ktor](https://img.shields.io/badge/ktor-3.0.0-blue.svg)](https://github.com/ktorio/ktor)
 [![Build](https://github.com/raharrison/kotlin-ktor-exposed-starter/workflows/Build/badge.svg)](https://github.com/raharrison/kotlin-ktor-exposed-starter/actions/workflows/build.yml)
 [![codecov](https://codecov.io/gh/raharrison/kotlin-ktor-exposed-starter/branch/master/graph/badge.svg?token=v2k9oObm0C)](https://codecov.io/gh/raharrison/kotlin-ktor-exposed-starter)
 
 ## Starter project to create a simple RESTful web service in Kotlin
 
-**Updated for Kotlin 1.8.0 and Ktor 2.2.2**
+**Updated for Kotlin 2.0.21 and Ktor 3.0.0**
 
 Companion article: <https://ryanharrison.co.uk/2018/04/14/kotlin-ktor-exposed-starter.html>
 
